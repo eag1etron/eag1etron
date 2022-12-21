@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eag1etron
-- 👀 I’m interested in: coding, drones, and photography.
+- 👀 I’m interested in: front-end web developer position.
 - 🌱 I’m currently learning: Xubuntu, HTML, CSS, Javascript, VS Code, and GitHub.
-- 💞️ I’m looking to collaborate on: any coding project starting at the bottom.
+- 💞️ I’m looking to collaborate on: any project as junior coder.
 - 📫 How to reach me: paul@hpware.com
 
 <!---
